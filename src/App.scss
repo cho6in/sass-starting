@@ -1,0 +1,15 @@
+#main {
+  section {
+    margin-bottom: 50px;
+    h1 {
+      font-size: 140px;
+    }
+    p,
+    ul {
+      margin-bottom: 1.5rem;
+    }
+    p.notes {
+      color: red($color: #000000);
+    }
+  }
+}
